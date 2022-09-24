@@ -1,4 +1,4 @@
-- 👋 Hi, Kacper Salamon / MajkWazowski.
+- 👋 Hi, Kacper Salamon.
 - 👀 I’m interested of Software Testing like Manual&Automation
 - 🌱 I’m currently learning Python, Selenium, Postman, Jmeter, HTML, CSS, GIT etc.
 - 📫 How to reach me -> by email: kacpersalamon1707@gmail.com
